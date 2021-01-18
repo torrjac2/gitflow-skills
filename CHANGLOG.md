@@ -9,4 +9,5 @@
 	Changes Made:
 	    - Added content: file04, file05, file06
 	    - Revised content: file03
+	    - Refactoring of directory names
 	    
